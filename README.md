@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Siddique Ahmad Ryan</h1>
 <h3 align="center">A passionate Computer Scientist.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iryansa&label=Profile%20views&color=0e75b6&style=flat" alt="iryansa" /> </p>
+
 
 - 👨‍💻 All of my projects are available at [github.com/iryansa](github.com/iryansa)
 
