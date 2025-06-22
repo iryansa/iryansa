@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Computer Scientist.</h3>
 
 
-<p>My Portfolio [Portfolio](https://saryan-portfolio.vercel.app/)</p>
+<a href="https://saryan-portfolio.vercel.app/" target="_blank">My Portfolio</a>
 
 👨‍💻 All of my projects are available at [github.com/iryansa](github.com/iryansa)
 
