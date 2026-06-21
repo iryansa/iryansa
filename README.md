@@ -1,5 +1,5 @@
 <section align="center">
-  <h1 align="center">Hi 👋, I'm Siddique Ahmad **Ryan**</h1>
+  <h1 align="center">Hi 👋, I'm Siddique Ahmad <bold>Ryan</bold></h1>
   <h3 align="center">Computer Science Graduate</h3>
 
   <h3 align="center">Connect with me:</h3>
