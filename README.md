@@ -1,6 +1,6 @@
 <section align="center">
 <h1 align="center">Hi 👋, I'm Siddique Ahmad <big><bold>Ryan</bold></big></h1>
-<h3 align="center">Senior Computer Student undergrad student @ FAST NUCES Islamabad</h3>
+<h3 align="center">Computer Student Gradute</h3>
 
 
 <!-- <a href="https://saryan-portfolio.vercel.app/" target="_blank">My Portfolio</a> -->
@@ -10,7 +10,8 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/sa-ryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddique-ahmad-ryan-909a4a247" height="30" width="40" /></a>
-[![Portfolio](https://githubusercontent.com)](https://saryan.dev/)
+<a href="https://saryan.dev" target="blank"><img align="center" src="https://githubusercontent.com" alt="saryan.dev" height="30" width="40" /></a>
+
 
 <!-- <a href="https://instagram.com/i_ryan.a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_ryan.a" height="30" width="40" /></a> -->
 </p>
