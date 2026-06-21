@@ -11,7 +11,7 @@
 <p align="center">
 <a href="https://linkedin.com/in/sa-ryan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddique-ahmad-ryan-909a4a247" height="30" width="40" /></a>
 <a href="https://saryan.dev" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/fedeperin/valtech-gvd/main/icons/globe.svg" alt="saryan.dev" height="30" width="30" />
+  <img src="https://img.shields.io/badge/Portfolio-saryan.dev-blue?style=for-the-badge&logo=globe" alt="saryan.dev" />
 </a>
 
 
