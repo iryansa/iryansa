@@ -14,11 +14,9 @@ Building intelligent systems, scalable backends, and cloud-native applications.
 
 <br>
 
-<!-- <a href="https://linkedin.com/in/sa-ryan">
+<a href="https://linkedin.com/in/sa-ryan">
 <img src="https://img.shields.io/badge/LinkedIn-030712?style=for-the-badge&logo=linkedin&logoColor=A59072" />
-</a> -->
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-A59072?logo=linkedin-white&logoColor=030712)](https://linkedin.com/in/sa-ryan)
+</a>
 
 <a href="https://saryan.dev">
 <img src="https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=A59072" />
