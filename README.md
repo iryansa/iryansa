@@ -19,7 +19,7 @@ Building intelligent systems, scalable backends, and cloud-native applications.
 </a>
 
 <a href="https://saryan.dev">
-<img src="https://img.shields.io/badge/Portfolio-A59072?style=for-the-badge&logo=vercel&logoColor=030712" />
+<img src="https://img.shields.io/badge/Portfolio-030712?style=for-the-badge&logo=vercel&logoColor=A59072" />
 </a>
 
 <a href="mailto:ryan.ahmad2923@gmail.com">
