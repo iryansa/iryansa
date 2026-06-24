@@ -30,10 +30,7 @@ Building intelligent systems, scalable backends, and cloud-native applications.
 <img src="https://img.shields.io/badge/GitHub-030712?style=for-the-badge&logo=github&logoColor=A59072" />
 </a>
 
-<br><br>
-
-<a href="https://saryan.dev"><b>🌐 Visit Portfolio</b></a>
-
+<br>
 </div>
 
 ---
